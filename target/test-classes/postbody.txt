@@ -1,0 +1,11 @@
+{
+    "firstname": "Babai",
+    "lastname": "Naga",
+    "totalprice": 40000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2023-09-10",
+        "checkout": "2023-10-20"
+    },
+    "additionalneeds": "Super Bowls"
+}
